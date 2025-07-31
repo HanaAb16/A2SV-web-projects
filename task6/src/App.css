@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.job-dashboard h1 {
+  @apply text-xl font-bold text-gray-700 mb-3;
+}
